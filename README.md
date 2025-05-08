@@ -35,17 +35,7 @@ In other words, managing your friends list using the basic CRUD operations.
 - Simple Authentication – Username-password login system using Java Properties
 
 ## 📁Project Structure:
-FriendListApp/
-├── bin/                # Compiled .class files
-├── src/                # Source code
-│   ├── app/            # Main application entry point
-│   ├── model/          # Friend model
-│   ├── service/        # Business logic
-│   └── config/         # Configuration files
-├── data/               # Stores user-specific friend list files
-├── assets/             # Images, GIFs, and other media files
-│   
-└── README.md           # Project documentation
+<pre> FriendListApp/ ├── bin/ # Compiled .class files ├── src/ # Source code │ ├── app/ # Main application entry point │ ├── model/ # Friend model │ ├── service/ # Business logic │ └── config/ # Configuration files (app.properties) ├── data/ # Stores user-specific friend list files ├── assets/ # Images, GIFs, and other media files └── README.md # Project documentation </pre>
 
 
 ## 🔑 Login Credentials
