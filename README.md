@@ -53,7 +53,7 @@ Usernames and passwords are stored in the `src/config/app.properties` file.
 
 Example `app.properties`:
 
-username: admin
+username: admin  
 password: admin123
 
 ## 🚀 How to Run:
